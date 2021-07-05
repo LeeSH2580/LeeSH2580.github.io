@@ -8,14 +8,14 @@
   
   <meta name="robots" content="all"/>
   <meta name="author" content="Author Name">
-  <meta name="description" content="하계 모각코 개인 목표 설정 😀학번, 이름 : 202102556 이승훈 🎡목표 : 실력 부족으로 넘긴 문제를 극복하자">
+  <meta name="description" content="import java.util.*;">
   <meta property="og:image" content="">
 
   
-  <title>2021 하계 모각코 개인별 목표 설정</title>
+  <title>210705 모각코 결과</title>
   
   <link rel="stylesheet" href="/assets/main.css">
-  <link rel="canonical" href="http://localhost:4000/mgc/2021/dfsef.html">
+  <link rel="canonical" href="http://localhost:4000/mgc5/2021/output1.html">
   <link rel="shortcut icon" href="/images/favicon.ico" type="image/x-icon">
   <link rel="stylesheet" href="/assets/css/animate.css">
   <script src="/assets/js/jquery.min.js"></script>
@@ -83,34 +83,74 @@
         <article class="post">
   <header> 
     <div class="title">
-      <h2>2021 하계 모각코 개인별 목표 설정</h2>
-      <p><a href="//github.com/ViKapitoshka/blog/edit/master/_posts/2021-06-23-dfsef.md" class="icon"><i class="fas fa-fw fa-edit"></i> GITHUB로 편집하기</a></p>
+      <h2>210705 모각코 결과</h2>
+      <p><a href="//github.com/ViKapitoshka/blog/edit/master/_posts/2021-07-05-output1.md" class="icon"><i class="fas fa-fw fa-edit"></i> GITHUB로 편집하기</a></p>
     </div>
     <div class="meta">
-      <time class="published" datetime="2021-06-23 17:30:00 +0900">23 Jun 2021 17:30</time>
+      <time class="published" datetime="2021-07-05 22:59:02 +0900">05 Jul 2021 22:59</time>
       <a href="//github.io" class="author"><span class="name">V.Last Name</span><img src="/images/avatar.jpeg" alt="ViKapitoshka" /></a>
     </div>
   </header>
-  <h2 id="하계-모각코-개인-목표-설정">하계 모각코 개인 목표 설정</h2>
-<h3 id="학번-이름--202102556-이승훈">😀학번, 이름 : 202102556 이승훈</h3>
-<h3 id="목표--실력-부족으로-넘긴-문제를-극복하자">🎡목표 : 실력 부족으로 넘긴 문제를 극복하자</h3>
+  <p>import java.util.*;</p>
 
-<h3 id="일정-">📄일정 :</h3>
-<ul>
-  <li>1회차[7/5],  별 회전 찍기(form 컴퓨터 프로그래밍 7주차)</li>
-  <li>2회차[7/8],  별 회전 찍기 코드 발표 및 상호 검토</li>
-  <li>3회차[7/12],  길 찾기 대회의 지도 만들기(from 컴퓨터 프로그래밍 중간고사)</li>
-  <li>4회차[7/15],  길 찾기 대회의 지도 만들기 코드 발표 및 상호 검토</li>
-  <li>5회차[7/19],  출입 코드 해킹(form  컴퓨터 프로그래밍 기말고사)</li>
-  <li>6회차[7/22],  출입 코드 해킹 코드 발표 및 상호 검토</li>
-</ul>
+<p>public class practice {</p>
+
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>public static void main(String[] args) {
+	// TODO Auto-generated method stub
+	Scanner sc = new Scanner(System.in);
+      
+      String[] inputStar = sc.nextLine().split(" ");
+      int x = inputStar.length;
+      int y = 0;
+      int [] know = new int[inputStar.length];
+      //일단 인풋을 받고 (Ex)*** * **
+      
+      for (int i = 0; i &lt; inputStar.length; i++) {
+         know[i]=inputStar[i].length();
+      }
+      // 각 행에 있는 별의 갯수를 넣어준다.
+      int count =0;
+      int compare = 0;
+      while (count&lt;inputStar.length) {
+    	  if(know[count]&gt;=compare) {
+    		  compare=know[count];
+    	  } 
+    	  count++;
+      }
+      y=compare;
+      // 제일 큰 값이 y에 들어 가도록 한다.(그게 곧 열이다)
+      char beforeLocation[][] = new char[x][y];
+      char resultLocation[][] = new char[y][x];
+      
+      for (int i = 0; i &lt; x; i++) {//행
+ 	         for (int j = 0; j &lt; inputStar[i].length(); j++) {//열
+ 	            beforeLocation[i][j] = inputStar[i].charAt(j);
+ 	            
+ 	         }
+ 	      }
+      // 만든 행렬에다가 별 넣어주고~
+      for (int i = 0; i &lt; x; i++) {//행
+ 	         for (int j = 0; j &lt; y; j++) {//열
+ 	        	 resultLocation[x-j-1][i] = beforeLocation[i][j];
+ 	            
+ 	         }
+ 	      }
+      // 돌려보자~
+      for (int i = 0; i &lt; x; i++) {
+	         for (int j = 0; j &lt; y; j++) {
+	            System.out.print(resultLocation[i][j]);
+	         }
+	         System.out.println();
+	      }
+} }
+</code></pre></div></div>
 
   
   <!--주석처리 <p>Подписывайтесь на наш <a href="http://t.me/vikablog">канал</a> в телеграмме :) -->
   <footer>
     <ul class="stats">
       <li><a class="icon" href="http://localhost:4000"><i class="fas fa-fw fa-folder"></i> 블로그 메인</a></li>
-      <li><a href="//github.com/ViKapitoshka/blog/edit/master/_posts/2021-06-23-dfsef.md" class="icon"><i class="fas fa-fw fa-edit"></i> Edit</a></li>
+      <li><a href="//github.com/ViKapitoshka/blog/edit/master/_posts/2021-07-05-output1.md" class="icon"><i class="fas fa-fw fa-edit"></i> Edit</a></li>
     </ul>
   </footer>
   
@@ -118,10 +158,8 @@
 </article>
 <ul class="actions pagination">
   
-    <li><a href="/instruction/2021/jekyll.html" class="button big previous icon"><i class="fw fas fa-chevron-left"></i> 이전으로</a></li>
+    <li><a href="/mgc/2021/210705.html" class="button big previous icon"><i class="fw fas fa-chevron-left"></i> 이전으로</a></li>
   
-  
-    <li><a href="/mgc/2021/210705.html" class="button big next icon">다음으로 <i class="fw fas fa-chevron-right"></i></a></li>
   
 </ul>
 
