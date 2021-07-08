@@ -1,5 +1,16 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.6">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2021-07-05T23:29:30+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Github Blog</title><subtitle>Blog with theme Future Imperfect&lt;br&gt;
-</subtitle><author><name>이승훈</name><email>vika@kaptn.ru</email></author><entry><title type="html">210705 모각코 결과</title><link href="http://localhost:4000/mgc/2021/output1.html" rel="alternate" type="text/html" title="210705 모각코 결과" /><published>2021-07-05T22:59:02+09:00</published><updated>2021-07-05T22:59:02+09:00</updated><id>http://localhost:4000/mgc/2021/output1</id><content type="html" xml:base="http://localhost:4000/mgc/2021/output1.html">&lt;p&gt;import java.util.*;&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.6">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2021-07-08T23:23:01+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Github Blog</title><subtitle>Blog with theme Future Imperfect&lt;br&gt;
+</subtitle><author><name>이승훈</name><email>vika@kaptn.ru</email></author><entry><title type="html">210708 모각코 결과</title><link href="http://localhost:4000/mgc/2021/210708_2.html" rel="alternate" type="text/html" title="210708 모각코 결과" /><published>2021-07-08T22:57:30+09:00</published><updated>2021-07-08T22:57:30+09:00</updated><id>http://localhost:4000/mgc/2021/210708_2</id><content type="html" xml:base="http://localhost:4000/mgc/2021/210708_2.html">&lt;p&gt;금일 발표 주제 : 별 회전 출력(from 7주차 3번 문제)&lt;/p&gt;
+
+&lt;p&gt;발표 후 피드백 내용 정리&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;굳이 열(low)값을 구할때 배열을 만들어서 비교할것 없이 간략하게  열값을 구할 수 있다.(향상된for문을 이용한 비교 가능)&lt;/li&gt;
+  &lt;li&gt;출력시 새로운 배열을 만들어서 넣는다기 보다는 출력 방향을 문제조건에 맞게 바꿔주는 것이 코드 효율에 좋다.
+(기존의 배열 출력 방식을 보면 (0,0)부터 오른쪽으로 한 행의 내용을 다 출력 후 다음 행으로 넘어가는 식이라면,  새로운 출력 방식은 열에서 그 열에 해당하는 행의 값들을 출력해주는 방식으로 출력해주면 된다.)&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;a href=&quot;/assets/%EB%B3%84%20%EB%8F%8C%EB%A6%AC%EA%B8%B0%20%EB%AC%B8%EC%A0%9C(7%EC%A3%BC%EC%B0%A8%20%EB%AC%B8%ED%95%AD).pptx&quot;&gt;발표  ppt 자료 다운로드&lt;/a&gt;&lt;/p&gt;</content><author><name>이승훈</name><email>vika@kaptn.ru</email></author><category term="mgc" /><summary type="html">금일 발표 주제 : 별 회전 출력(from 7주차 3번 문제)</summary></entry><entry><title type="html">210708 모각코 목표</title><link href="http://localhost:4000/mgc/2021/210708.html" rel="alternate" type="text/html" title="210708 모각코 목표" /><published>2021-07-08T20:16:15+09:00</published><updated>2021-07-08T20:16:15+09:00</updated><id>http://localhost:4000/mgc/2021/210708</id><content type="html" xml:base="http://localhost:4000/mgc/2021/210708.html">&lt;p&gt;별 돌리기 발표&lt;/p&gt;
+
+&lt;p&gt;코드 공유 목적 : 실행 시 문제가 있던 부분 보완 및 더 좋은 코드 공유 받아보기&lt;/p&gt;</content><author><name>이승훈</name><email>vika@kaptn.ru</email></author><category term="mgc" /><summary type="html">별 돌리기 발표</summary></entry><entry><title type="html">210705 모각코 결과</title><link href="http://localhost:4000/mgc/2021/output1.html" rel="alternate" type="text/html" title="210705 모각코 결과" /><published>2021-07-05T22:59:02+09:00</published><updated>2021-07-05T22:59:02+09:00</updated><id>http://localhost:4000/mgc/2021/output1</id><content type="html" xml:base="http://localhost:4000/mgc/2021/output1.html">&lt;p&gt;import java.util.*;&lt;/p&gt;
 
 &lt;p&gt;public class practice {&lt;/p&gt;
 
