@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.6">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2021-07-19T22:55:05+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Github Blog</title><subtitle>Blog with theme Future Imperfect&lt;br&gt;
-</subtitle><author><name>이승훈</name><email>vika@kaptn.ru</email></author><entry><title type="html">210719 모각코 결과</title><link href="http://localhost:4000/mgc/2021/210719_2.html" rel="alternate" type="text/html" title="210719 모각코 결과" /><published>2021-07-19T22:54:55+09:00</published><updated>2021-07-19T22:54:55+09:00</updated><id>http://localhost:4000/mgc/2021/210719_2</id><content type="html" xml:base="http://localhost:4000/mgc/2021/210719_2.html">&lt;p&gt;오늘의 진척 :  객체를 다 입력하였고, 인스턴스 입력과정까지 마쳤다, 다음 발표때 까지 다 입력하고 테스트하여 올릴 예정이다.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.6">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2021-07-22T22:57:21+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Github Blog</title><subtitle>Blog with theme Future Imperfect&lt;br&gt;
+</subtitle><author><name>이승훈</name><email>vika@kaptn.ru</email></author><entry><title type="html">210722 모각코 결과</title><link href="http://localhost:4000/mgc/2021/210722_2.html" rel="alternate" type="text/html" title="210722 모각코 결과" /><published>2021-07-22T22:53:51+09:00</published><updated>2021-07-22T22:53:51+09:00</updated><id>http://localhost:4000/mgc/2021/210722_2</id><content type="html" xml:base="http://localhost:4000/mgc/2021/210722_2.html">&lt;p&gt;오늘의 결과 :  코드랑 발표가 오늘 많이 빈약했던 것 같다. 마지막에 유종의 미를 거두어야했는데 유종의 미라고 하기에는 많이 초라한 것 같다.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/%EC%B6%9C%EC%9E%85%EC%BD%94%EB%93%9C%ED%95%B4%ED%82%B9(%EA%B8%B0%EB%A7%90%EA%B3%A0%EC%82%AC).pptx&quot;&gt;금일 발표 자료 다운로드&lt;/a&gt;&lt;/p&gt;</content><author><name>이승훈</name><email>vika@kaptn.ru</email></author><category term="mgc" /><summary type="html">오늘의 결과 : 코드랑 발표가 오늘 많이 빈약했던 것 같다. 마지막에 유종의 미를 거두어야했는데 유종의 미라고 하기에는 많이 초라한 것 같다.</summary></entry><entry><title type="html">210722 모각코 목표</title><link href="http://localhost:4000/mgc/2021/210722.html" rel="alternate" type="text/html" title="210722 모각코 목표" /><published>2021-07-22T20:02:37+09:00</published><updated>2021-07-22T20:02:37+09:00</updated><id>http://localhost:4000/mgc/2021/210722</id><content type="html" xml:base="http://localhost:4000/mgc/2021/210722.html">&lt;p&gt;오늘의 목표 : 출입코드해킹(from 기말고사) 작성 코드 발표&lt;/p&gt;</content><author><name>이승훈</name><email>vika@kaptn.ru</email></author><category term="mgc" /><summary type="html">오늘의 목표 : 출입코드해킹(from 기말고사) 작성 코드 발표</summary></entry><entry><title type="html">210719 모각코 결과</title><link href="http://localhost:4000/mgc/2021/210719_2.html" rel="alternate" type="text/html" title="210719 모각코 결과" /><published>2021-07-19T22:54:55+09:00</published><updated>2021-07-19T22:54:55+09:00</updated><id>http://localhost:4000/mgc/2021/210719_2</id><content type="html" xml:base="http://localhost:4000/mgc/2021/210719_2.html">&lt;p&gt;오늘의 진척 :  객체를 다 입력하였고, 인스턴스 입력과정까지 마쳤다, 다음 발표때 까지 다 입력하고 테스트하여 올릴 예정이다.&lt;/p&gt;
 
 &lt;p&gt;[&lt;a href=&quot;/DoorHackingTest.java&quot;&gt;금일 작성 코드 다운로드&lt;/a&gt;]&lt;/p&gt;</content><author><name>이승훈</name><email>vika@kaptn.ru</email></author><category term="mgc" /><summary type="html">오늘의 진척 : 객체를 다 입력하였고, 인스턴스 입력과정까지 마쳤다, 다음 발표때 까지 다 입력하고 테스트하여 올릴 예정이다.</summary></entry><entry><title type="html">210719 모각코 목표</title><link href="http://localhost:4000/mgc/2021/210719.html" rel="alternate" type="text/html" title="210719 모각코 목표" /><published>2021-07-19T20:02:41+09:00</published><updated>2021-07-19T20:02:41+09:00</updated><id>http://localhost:4000/mgc/2021/210719</id><content type="html" xml:base="http://localhost:4000/mgc/2021/210719.html">&lt;p&gt;오늘의 목표 : 출입 코드 해킹(form 컴퓨터 프로그래밍 기말고사) 코딩&lt;/p&gt;</content><author><name>이승훈</name><email>vika@kaptn.ru</email></author><category term="mgc" /><summary type="html">오늘의 목표 : 출입 코드 해킹(form 컴퓨터 프로그래밍 기말고사) 코딩</summary></entry><entry><title type="html">210715 모각코 결과</title><link href="http://localhost:4000/mgc/2021/20210715_2.html" rel="alternate" type="text/html" title="210715 모각코 결과" /><published>2021-07-15T22:53:21+09:00</published><updated>2021-07-15T22:53:21+09:00</updated><id>http://localhost:4000/mgc/2021/20210715_2</id><content type="html" xml:base="http://localhost:4000/mgc/2021/20210715_2.html">&lt;p&gt;결과 :  길찾기 대회 지도 발표
 느낀 점: 문제 자체에 오류가 상당했다&lt;/p&gt;
@@ -18,56 +20,4 @@
 
 &lt;p&gt;&lt;a href=&quot;/assets/%EB%B3%84%20%EB%8F%8C%EB%A6%AC%EA%B8%B0%20%EB%AC%B8%EC%A0%9C(7%EC%A3%BC%EC%B0%A8%20%EB%AC%B8%ED%95%AD).pptx&quot;&gt;발표  ppt 자료 다운로드&lt;/a&gt;&lt;/p&gt;</content><author><name>이승훈</name><email>vika@kaptn.ru</email></author><category term="mgc" /><summary type="html">금일 발표 주제 : 별 회전 출력(from 7주차 3번 문제)</summary></entry><entry><title type="html">210708 모각코 목표</title><link href="http://localhost:4000/mgc/2021/210708.html" rel="alternate" type="text/html" title="210708 모각코 목표" /><published>2021-07-08T20:16:15+09:00</published><updated>2021-07-08T20:16:15+09:00</updated><id>http://localhost:4000/mgc/2021/210708</id><content type="html" xml:base="http://localhost:4000/mgc/2021/210708.html">&lt;p&gt;별 돌리기 발표&lt;/p&gt;
 
-&lt;p&gt;코드 공유 목적 : 실행 시 문제가 있던 부분 보완 및 더 좋은 코드 공유 받아보기&lt;/p&gt;</content><author><name>이승훈</name><email>vika@kaptn.ru</email></author><category term="mgc" /><summary type="html">별 돌리기 발표</summary></entry><entry><title type="html">210705 모각코 결과</title><link href="http://localhost:4000/mgc/2021/output1.html" rel="alternate" type="text/html" title="210705 모각코 결과" /><published>2021-07-05T22:59:02+09:00</published><updated>2021-07-05T22:59:02+09:00</updated><id>http://localhost:4000/mgc/2021/output1</id><content type="html" xml:base="http://localhost:4000/mgc/2021/output1.html">&lt;p&gt;import java.util.*;&lt;/p&gt;
-
-&lt;p&gt;public class practice {&lt;/p&gt;
-
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;public static void main(String[] args) {
-	// TODO Auto-generated method stub
-	Scanner sc = new Scanner(System.in);
-      
-      String[] inputStar = sc.nextLine().split(&quot; &quot;);
-      int x = inputStar.length;
-      int y = 0;
-      int [] know = new int[inputStar.length];
-      //일단 인풋을 받고 (Ex)*** * **
-      
-      for (int i = 0; i &amp;lt; inputStar.length; i++) {
-         know[i]=inputStar[i].length();
-      }
-      // 각 행에 있는 별의 갯수를 넣어준다.
-      int count =0;
-      int compare = 0;
-      while (count&amp;lt;inputStar.length) {
-    	  if(know[count]&amp;gt;=compare) {
-    		  compare=know[count];
-    	  } 
-    	  count++;
-      }
-      y=compare;
-      // 제일 큰 값이 y에 들어 가도록 한다.(그게 곧 열이다)
-      char beforeLocation[][] = new char[x][y];
-      char resultLocation[][] = new char[y][x];
-      
-      for (int i = 0; i &amp;lt; x; i++) {//행
- 	         for (int j = 0; j &amp;lt; inputStar[i].length(); j++) {//열
- 	            beforeLocation[i][j] = inputStar[i].charAt(j);
- 	            
- 	         }
- 	      }
-      // 만든 행렬에다가 별 넣어주고~
-      for (int i = 0; i &amp;lt; x; i++) {//행
- 	         for (int j = 0; j &amp;lt; y; j++) {//열
- 	        	 resultLocation[x-j-1][i] = beforeLocation[i][j];
- 	            
- 	         }
- 	      }
-      // 돌려보자~
-      for (int i = 0; i &amp;lt; x; i++) {
-	         for (int j = 0; j &amp;lt; y; j++) {
-	            System.out.print(resultLocation[i][j]);
-	         }
-	         System.out.println();
-	      }
-} }
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;</content><author><name>이승훈</name><email>vika@kaptn.ru</email></author><category term="mgc" /><summary type="html">import java.util.*;</summary></entry><entry><title type="html">210705 모각코 목표</title><link href="http://localhost:4000/mgc/2021/210705.html" rel="alternate" type="text/html" title="210705 모각코 목표" /><published>2021-07-05T20:35:47+09:00</published><updated>2021-07-05T20:35:47+09:00</updated><id>http://localhost:4000/mgc/2021/210705</id><content type="html" xml:base="http://localhost:4000/mgc/2021/210705.html">&lt;p&gt;목표 : 별 회전 찍기(form 컴퓨터 프로그래밍 7주차) 코딩&lt;/p&gt;</content><author><name>이승훈</name><email>vika@kaptn.ru</email></author><category term="mgc" /><summary type="html">목표 : 별 회전 찍기(form 컴퓨터 프로그래밍 7주차) 코딩</summary></entry></feed>
+&lt;p&gt;코드 공유 목적 : 실행 시 문제가 있던 부분 보완 및 더 좋은 코드 공유 받아보기&lt;/p&gt;</content><author><name>이승훈</name><email>vika@kaptn.ru</email></author><category term="mgc" /><summary type="html">별 돌리기 발표</summary></entry></feed>
